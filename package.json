@@ -1,0 +1,19 @@
+{
+  "name": "kashootz",
+  "version": "1.0.0",
+  "description": "quiz game made in class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leunk/kashootz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leunk/kashootz/issues"
+  },
+  "homepage": "https://github.com/leunk/kashootz#readme"
+}

@@ -1,0 +1,78 @@
+[
+    {
+        "question": "What does UCF stand for?",
+        "possibleAnswers":
+        [
+            {"text": "U Can't Finish",
+            "correct": false },
+            {"text": "University of Central Florida",
+            "correct": true},
+            {"text": "Under Construction Forever",
+            "correct": false },
+            {"text": "Isn't it UFC?",
+            "correct": false}
+
+        ]
+    },
+    {
+        "question": "What are the school colors for UCF?",
+        "possibleAnswers":
+        [
+            {"text": "Green and Orange",
+            "correct": false},
+            {"text": "Maroon and Gold",
+            "correct": false },
+            {"text": "Blue and Orange",
+            "correct": false},
+            {"text": "Black and Gold",
+            "correct": true}
+
+        ]
+    },
+    {
+        "question": "What year was UCF established?",
+        "possibleAnswers":
+        [
+            {"text": "1961",
+            "correct": false},
+            {"text": "1949",
+            "correct": false},
+            {"text": "1963",
+            "correct": true},
+            {"text": "1884",
+            "correct": false}
+
+        ]
+    },
+    {
+        "question": "Who is the mascot for UCF?",
+        "possibleAnswers":
+        [
+            {"text": "Albert",
+            "correct": false},
+            {"text": "Knightro",
+            "correct": true},
+            {"text": "Rocky",
+            "correct": false},
+            {"text": "Osceola",
+            "correct":false}
+
+        ]
+    },
+    {
+        "question": "Where is UCF located?",
+        "possibleAnswers":
+        [
+            {"text": "Orlando, FL",
+            "correct": true},
+            {"text": "Miami, FL",
+            "correct": false},
+            {"text": "Tampa, FL",
+            "correct": false},
+            {"text": "Texas.",
+            "correct":false}
+
+        ]
+    }
+    
+]
