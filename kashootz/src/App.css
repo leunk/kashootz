@@ -1,7 +1,17 @@
 .App {
   text-align: center;
 }
+body{
+  background-color: #dbf7ff;
+  color: #4b1d80;
+  margin: auto;
+  padding: 10px;
+}
 
+Button.start{
+  font-size: xxx-large;
+  background-color: #dbf7ff;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
