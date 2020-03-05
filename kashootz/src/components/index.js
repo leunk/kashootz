@@ -1,5 +1,5 @@
 import React from 'react';
-import questions from '../questions.json';
+// import questions from '../questions.json';
 
 class QuizQuestion extends React.Component{
     render(){

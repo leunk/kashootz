@@ -1,2 +1,2 @@
 # kashootz
-quiz game made in class
+Quiz App made using React 
